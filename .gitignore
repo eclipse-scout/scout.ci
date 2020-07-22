@@ -1,0 +1,39 @@
+# Backupfiles from mergetools #
+*.orig
+
+# Java Class Files #
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+
+*.log
+
+# DebugClasses
+*_gitignore.js
+*_gitignore.java
+
+# Eclipse #
+/.project
+bin
+classes
+
+# IntelliJ IDEA #
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+.idea/sonarlint
+
+# Maven #
+target/
+.surefire-*
+.flattened-pom.xml
+
+# node
+node_modules
+pnpm-lock.yaml
